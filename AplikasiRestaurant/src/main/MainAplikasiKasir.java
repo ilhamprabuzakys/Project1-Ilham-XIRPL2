@@ -117,7 +117,7 @@ public class MainAplikasiKasir{
             }
         } while (kembalian < 0);
 
-        System.out.println("=========== TERIMAKASIH ===========");
+        System.out.println("=========== TERIMA KASIH ===========");
     }
 
     public void generateDaftarMenu() {
